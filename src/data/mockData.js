@@ -37,7 +37,7 @@ export const holdingsData = [
     averageBuyPrice: 3599.856066001555,
     stcg: {
       balance: 0.00023999998390319965,
-      gain: 49.957471193511736,
+      gain: -5000.00, // MASSIVE LOSS FOR TESTING
     },
     ltcg: {
       balance: 0,
